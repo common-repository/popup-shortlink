@@ -1,0 +1,49 @@
+#popup_shortlink_box {
+	display: none;
+	position: absolute;
+	z-index: 1000;
+	background: transparent url('ps_lightbox.png');
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	padding-top: 15%;
+}
+
+#popup_shortlink_box .ps_box {
+	position: relative;
+	background: transparent url('ps_box.png') no-repeat;
+	width: 328px;
+	height: 214px;
+	margin: auto;
+	padding: 0px;
+	font-size: 20px;
+	font-family: cambria;
+}
+
+#popup_shortlink_box .ps_box #popup_shortlink_link {
+	width: 200px;
+	text-align: center;
+}
+
+#popup_shortlink_box .ps_box #popup_shortlink_button input {
+	color:#FFFFFF;
+	height:24px;
+	line-height:14px;
+	background-color:#444;
+	padding-right:16px;
+	padding-left:16px;
+	padding-top:3px;
+	padding-bottom:3px;
+	margin: 6px;
+	font-size:11px;
+	border:0px;
+	border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+#popup_shortlink_box .ps_close {
+	position: absolute;
+	top: -10px;
+	right: -10px;
+}

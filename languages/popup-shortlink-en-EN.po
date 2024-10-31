@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PopUP Shortlink\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-25 03:04+0100\n"
+"PO-Revision-Date: 2013-07-25 03:04+0100\n"
+"Last-Translator: Maxence Rose <rosemaxence@gmail.com>\n"
+"Language-Team: Maxence Rose <pirmax@free.fr>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2;plural=n>2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: D:\\PopupShortlink\\trunk\n"
+
+#: D:\PopupShortlink\trunk/popup-shortlink.php:40
+msgid "Make a donation"
+msgstr "Make a donation"
+
+#: D:\PopupShortlink\trunk/popup-shortlink.php:42
+msgid "More translations"
+msgstr "More translations"
+
+#: D:\PopupShortlink\trunk/popup-shortlink.php:118
+msgid "Settings"
+msgstr "Settings"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:53
+msgid "URL Shortener"
+msgstr "URL Shortener"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:64
+msgid "If you use <strong>Bit.ly</strong>, an API key is necessary"
+msgstr "If you use <strong>Bit.ly</strong>, an API key is necessary"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:71
+msgid "Username <strong>Bit.ly</strong>"
+msgstr "Username <strong>Bit.ly</strong>"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:79
+msgid "API key <strong>Bit.ly</strong>"
+msgstr "API key <strong>Bit.ly</strong>"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:89
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:93
+msgid "Click here"
+msgstr "Click here"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:93
+msgid "to download more translations"
+msgstr "to download more translations"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:95
+msgid "Rating this plugin:"
+msgstr "Rating this plugin:"
+
+#: D:\PopupShortlink\trunk/ps_pages.php:101
+msgid "Parameters for the integration of PopUP Shortlink"
+msgstr "Parameters for the integration of PopUP Shortlink"
